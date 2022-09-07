@@ -8,3 +8,5 @@ Our software provides users with **two different testing methods**: word spellin
 In terms of memorizing words, the software will **automatically** select suitable words according to the target IELTS score set by the user, so as to avoid words that are too difficult or too simple to affect the user's mood of memorizing words. The user is also allowed to set the number of words to learn each day, and then this software can **record the user's learning situation** and give **feedback**, promoting the user's **self-reflection** and **English ability improvement**.
 
 Equally important is that our software is presented in a **beautiful, user-friendly form**, in order for users to enjoy a good experience. 
+
+<div align=center><img src="https://github.com/WangHewei16/Woodpecker-IELTS-English-Word-Desktop-Software/blob/main/images/software%20poster.png" width="900"/></div>
