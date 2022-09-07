@@ -15,15 +15,21 @@ Equally important is that our software is presented in a **beautiful, user-frien
 #### 2. Technologies
 
 `Platform`: desktop <br>
-`Programming language`: ①Front end: Java ②Back end: Java, MySQL <br>
-`Others`: ①"Youdao Zhiyun" API interface ②org.apache.http related JAR: httpcomponents-client-5.0.3/4.5.13/4.2.5 ③json JAR: json-20090211.jar
-json JAR: json-20090211.jar ④Microsoft API ⑤iFLYTEK Voice Evaluation API
+`Programming language`: 
+* Front end: Java 
+* Back end: Java, MySQL <br>
+`Others`: 
+* "Youdao Zhiyun" API interface 
+* org.apache.http related JAR: httpcomponents-client-5.0.3/4.5.13/4.2.5 
+* json JAR: json-20090211.jar
+* Microsoft API 
+* iFLYTEK Voice Evaluation API
 
 
 #### 3. Functions
-•	Implemented an APP that helps users memorize IELTS words, with a progress bar, word memorization, check-in, dictionary lookup, word push, word test, vocabulary book, and pronunciation correction. <br>
-•	Completed the UI design of the login interface and the main interface so that the word push can go forward and backward, connect to the Microsoft API, and get a detailed explanation of each pushed word, including translation, synonyms, and example sentences. <br>
-•	Designed the user plan function so that users can freely set the number of daily plan words, word difficulty, and self-test number, and set up push to record the length of time the user stays on the word, the time of the last word learning, and the error rate in the test.
-•	Developed an algorithm to use the recorded data to figure out the words most likely to be forgotten by the user, connected the app to the pronunciation engine, and accurately read each word when pushing and rewriting the iFLYTEK Voice Evaluation API.
-•	Provided users with a test user’s pronunciation and gave a score for the word’s pronunciation, the score for each syllable, and the relevant information of each syllable phoneme to design the application’s word query function and vocabulary function.
+* Implemented an APP that helps users memorize IELTS words, with a progress bar, word memorization, check-in, dictionary lookup, word push, word test, vocabulary book, and pronunciation correction. 
+* Completed the UI design of the login interface and the main interface so that the word push can go forward and backward, connect to the Microsoft API, and get a detailed explanation of each pushed word, including translation, synonyms, and example sentences. 
+* Designed the user plan function so that users can freely set the number of daily plan words, word difficulty, and self-test number, and set up push to record the length of time the user stays on the word, the time of the last word learning, and the error rate in the test. 
+* Developed an algorithm to use the recorded data to figure out the words most likely to be forgotten by the user, connected the app to the pronunciation engine, and accurately read each word when pushing and rewriting the iFLYTEK Voice Evaluation API. 
+* Provided users with a test user’s pronunciation and gave a score for the word’s pronunciation, the score for each syllable, and the relevant information of each syllable phoneme to design the application’s word query function and vocabulary function. 
 
