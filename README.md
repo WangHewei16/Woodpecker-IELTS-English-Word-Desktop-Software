@@ -1,5 +1,5 @@
 ## Woodpecker-IELTS-English-Word-Desktop-Software
-#### Overall Introduction
+#### 1. Overall Introduction
 The software we developed is an **English vocabulary memory software**. It is operated on a **computer**. The main users are students who want to learn English to improve their **IELTS scores**. This software provides a variety of functions to help users recite IELTS words, strengthen their memory of vocabulary, and test users' learning results; allow users to make learning plans and give learning feedback.
 
 It is available for the users to search for translation and explanation of words and phrases. It can also strengthen users’ memories of vocabulary by several functions such as **self-testing, vocabulary push, and adding unfamiliar words to the notebook**. Furthermore, the software is designed to motivate users to learn new words by its **clock-in** function.
