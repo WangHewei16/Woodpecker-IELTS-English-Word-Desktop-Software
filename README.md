@@ -11,3 +11,13 @@ In terms of memorizing words, the software will **automatically** select suitabl
 Equally important is that our software is presented in a **beautiful, user-friendly form**, in order for users to enjoy a good experience. 
 
 <div align=center><img src="https://github.com/WangHewei16/Woodpecker-IELTS-English-Word-Desktop-Software/blob/main/images/software%20poster.png" width="990"/></div>
+#### 2. Technologies
+Platform: desktop
+Programming language: 
+① Front end: Java
+② Back end: Java, MySQL
+Others: 
+①"Youdao Zhiyun" API interface 
+②org.apache.http related JAR: httpcomponents-client-5.0.3/4.5.13/4.2.5 
+③json JAR: json-20090211.jar
+
