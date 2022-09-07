@@ -9,4 +9,4 @@ In terms of memorizing words, the software will **automatically** select suitabl
 
 Equally important is that our software is presented in a **beautiful, user-friendly form**, in order for users to enjoy a good experience. 
 
-<div align=center><img src="https://github.com/WangHewei16/Woodpecker-IELTS-English-Word-Desktop-Software/blob/main/images/software%20poster.png" width="900"/></div>
+<div align=center><img src="https://github.com/WangHewei16/Woodpecker-IELTS-English-Word-Desktop-Software/blob/main/images/software%20poster.png" width="990"/></div>
