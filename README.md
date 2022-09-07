@@ -17,7 +17,7 @@ Equally important is that our software is presented in a **beautiful, user-frien
 `Platform`: desktop <br>
 `Programming language`: 
 * Front end: Java 
-* Back end: Java, MySQL <br>
+* Back end: Java, MySQL 
 `Others`: 
 * "Youdao Zhiyun" API interface 
 * org.apache.http related JAR: httpcomponents-client-5.0.3/4.5.13/4.2.5 
