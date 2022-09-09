@@ -21,7 +21,7 @@ Equally important is that our software is presented in a beautiful, user-friendl
 
 
 `Others:`
-* "Youdao Zhiyun" API 
+* Youdao-Zhiyun API 
 * org.apache.http related JAR: httpcomponents-client-5.0.3/4.5.13/4.2.5 
 * json JAR: json-20090211.jar
 * Microsoft API 
