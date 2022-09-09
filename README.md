@@ -1,6 +1,6 @@
 ## Woodpecker-IELTS-English-Word-Desktop-Software
 #### 1. Overall Introduction
-The software we developed is an **English vocabulary memory software**. It is operated on a computer. The main users are students who want to learn English to improve their **IELTS scores**. This software provides a variety of functions to help users recite IELTS words, strengthen their memory of vocabulary, and test users' learning results; allow users to make learning plans and give learning feedback.
+The software we developed is an **English vocabulary memory software**. It is operated on a computer. The main users are students who want to learn English to improve their IELTS scores. This software provides a variety of functions to help users recite IELTS words, strengthen their memory of vocabulary, and test users' learning results; allow users to make learning plans and give learning feedback.
 
 It is available for the users to search for translation and explanation of words and phrases. It can also strengthen users’ memories of vocabulary by several functions such as **self-testing, vocabulary push, and adding unfamiliar words to the notebook**. Furthermore, the software is designed to motivate users to learn new words by its **clock-in** function.
 
@@ -35,8 +35,8 @@ Equally important is that our software is presented in a beautiful, user-friendl
 * Developed an algorithm to use the recorded data to figure out the words most likely to be forgotten by the user, connected the app to the pronunciation engine, and accurately read each word when pushing and rewriting the iFLYTEK Voice Evaluation API. 
 * Provided users with a test user’s pronunciation and gave a score for the word’s pronunciation, the score for each syllable, and the relevant information of each syllable phoneme to design the application’s word query function and vocabulary function. 
 
-<div align=center><img src="https://github.com/WangHewei16/Woodpecker-IELTS-English-Word-Desktop-Software/blob/main/images/function%20diagram.png" width="990"/></div>
+<div align=center><img src="https://github.com/WangHewei16/Woodpecker-IELTS-English-Word-Desktop-Software/blob/main/images/function%20diagram.png" width="600"/></div>
 
 #### 4. Development Scrum 
 
-<div align=center><img src="https://github.com/WangHewei16/Woodpecker-IELTS-English-Word-Desktop-Software/blob/main/images/develop%20scrum.png" width="990"/></div>
+<div align=center><img src="https://github.com/WangHewei16/Woodpecker-IELTS-English-Word-Desktop-Software/blob/main/images/develop%20scrum.png" width="550"/></div>
