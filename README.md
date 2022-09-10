@@ -38,5 +38,5 @@ Equally important is that our software is presented in a beautiful, user-friendl
 <div align=center><img src="https://github.com/WangHewei16/Woodpecker-IELTS-English-Word-Desktop-Software/blob/main/images/function%20diagram.png" width="600"/></div>
 
 #### 4. Development Scrum 
-The figure below demonstrates the scrum plan before we develop the software.
+The figure below demonstrates the project plan before we develop the software. There are five scrum in our project and each scrum includes two or three user story.
 <div align=center><img src="https://github.com/WangHewei16/Woodpecker-IELTS-English-Word-Desktop-Software/blob/main/images/develop%20scrum.png" width="550"/></div>
